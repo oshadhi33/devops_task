@@ -1,0 +1,54 @@
+
+ 	AWS Pricing according to compute, storage, data transfer.
+
+•	compute – charged per hour/second. varies by instances type
+•	storage – per GB
+•	data transfer – outbound has charge. inbound has no charge. per GB. transfer between other AWS services within the same AWS Region
+
+ 	How do you pay for AWS 
+
+1.	Pay for what you use 
+You need to pay only for what you used. In traditional model (on premises) you have spent over the infrastructures such as servers, storage, security system, etc. And also you have to spent over maintain infrastructures. All AWS services are on demand then do not required any licenses or agreements. You can quickly adopt to changes in your business and innovations.
+
+2.	Pay less when you reserve (Invest reserved instances)
+With reserved instances you can get save bill 75 percent,
+o	Largest discounts for all upfront reserved instances (AURI)
+o	Lower discount for partial upfront reserved instances (PURI)
+o	Smaller discount for no upfront payments reserved instances (NURI)
+For certain services like AmazonElastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), you can invest in reserved capacity. When you buy reserved instances you received greater discounts. To maximize saving, you can pay all upfront.
+By using reserved instances, your organization can minimize risks, comfy with policies.
+
+3.	Pay less when you use more and AWS grows 
+When you use more volume, 
+you can save more per GB. (EX: Amazon S3, Amazon EBS, Amazon EFS). In addition data transfer in is always free.
+And also if you use multiple storage services then either you can save more. AWS Storage Services, for example, offers options to reduce prices based on how often you access data and the performance you need to get it.
+As AWS grows,
+As grows the AWS business they try to reduce the cost of you. They try to give the best performance, improving optional efficiency, lowering power consumption without charging additional cost. Another benefit of AWS is they do not charge for their new updates such as higher performing resource, they won’t change their old price for new updates. 
+
+You can start and stop using products at any time no required agreements.
+
+Custom pricing
+AWS know that customer has different needs. Therefore if their pricing models do not match with your needs then they provide custom pricing option. Custom pricing is available for high volume projects with unique requirements. 
+
+AWS free tier 
+Free for 1 year for new customers. You can run amazon EC2 T2 micro instances for year, while using amazon S3, amazon EBS, Elastic load balancing AWS data transfer and other services. 
+
+Services with no charge 
+•	Amazon VPC
+•	Elastic Beanstalk
+•	Auto scaling - automatically adds or removes resources according to conditions you define.
+•	AWS cloudformation
+•	IAM 
+•	AWS OpsWorks - is an application management service that makes it easy to deploy and operate applications of all shapes and sizes
+But if you scale additional resources then you have to pay. EX: if you launch additional EC2instance.
+
+
+
+Consolidated billing is a billing feature that AWS gives you. Consolidated billing provides, 
+o	One bill – you can pay one bill for multiple accounts 
+o	Easily track – the ability to easily track each accounts charges
+o	combined usage – by using more you can pay less
+
+AWS accounts are administered by AWS,
+AISPL accounts are administered by Amazon Internet Services Private Limited.
+If you used an Indian address to make the account then you account’s default seller is AISPL. then you have to pay in Indian rupees.  
